@@ -83,7 +83,7 @@ This first project was crucial for solidifying my understanding of modern BI pra
 ## 📸  Screenshots / Demos
  show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
 
- Example: ![Dashboard Preview]()
+ Example: ![Dashboard Preview](https://github.com/mdsajidhussain0786/-Sales-Analysis-Dashboard/blob/main/snapshot.png)
  
 
 ## 🚀 Getting Started  
