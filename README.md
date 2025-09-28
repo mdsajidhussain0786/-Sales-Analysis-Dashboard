@@ -79,4 +79,17 @@ This first project was crucial for solidifying my understanding of modern BI pra
 * **UX/UI in BI:** Focusing on report layout, color theory, and making the data easy for a non-technical audience to consume.
 
 ---
+
+## 📸  Screenshots / Demos
+ show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
+
+ Example: ![Dashboard Preview]()
+ 
+
+## 🚀 Getting Started  
+1. Clone the repository:  
+   ```bash
+   git clone <repository_url>
+
+---
 *I am actively seeking feedback on data modeling and visualization best practices. Feel free to connect!*
