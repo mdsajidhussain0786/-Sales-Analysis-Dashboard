@@ -89,7 +89,7 @@ This first project was crucial for solidifying my understanding of modern BI pra
 ## 🚀 Getting Started  
 1. Clone the repository:  
    ```bash
-   git clone <repository_url>
+   git clone <https://github.com/mdsajidhussain0786/-Sales-Analysis-Dashboard.git>
 
 ---
 *I am actively seeking feedback on data modeling and visualization best practices. Feel free to connect!*
